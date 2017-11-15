@@ -21,6 +21,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sysfoo</finalName>
+    <finalName>sysfoo_v1</finalName>
   </build>
 </project>
